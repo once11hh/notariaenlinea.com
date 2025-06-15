@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from notariaenlinea.com/qr.php?c=p8vgl&i=1053773705 by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 15 Jun 2025 22:13:19 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <title>Gear Api</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="stylesheet" href="Librerias/bootstrap-4.0.0-alpha.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="Librerias/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="Librerias/css/estilo.css">
+</head>
+<body>
+
+<nav class="navbar navbar-toggleable-md navbar-inverse bg-faded">
+    <button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="#"><img src="LogosGear/gear0.png" height="40px" width="40px"></a>
+
+    <div class="navbar-collapse collapse " id="navbarSupportedContent" aria-expanded="false">
+        <ul class="navbar-nav mr-auto my-0 my-md-2">
+            <li class="nav-item active">
+                <a class="nav-link" href="https://www.notariaenlinea.com">Notaria en linea <span class="sr-only">(current)</span></a>
+            </li>
+        </ul>
+
+    </div>
+</nav>
+
+
+<div class="container fluid">
+    <br>
+    <div class="row">
+
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">Resultado verificación</div>
+                <div class="card-block" id="Resultado">
+                    <h5>Código verificación: p8vgl</h5><h5>Compareciente: TABARES BOJACA JHON EDISSON</h5><h5>Documento identificación: C.C. 1053773705</h5><h5>Fecha comparecencia: 2025-06-13 14:35:41</h5><h5>Acto: DILIGENCIA DE RECONOCIMIENTO</h5><br></br><h5>EDUARDO ALBERTO CIFUENTES RAMIREZ</h5><h5>NOTARIO CUARTO DEL CÍRCULO DE MANIZALES</h5>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+</div>
+
+
+<div id="gearmodalproceso" class="gearmodal modal fade">
+    <div class="modal-dialog " role="alert">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Procesando</h5>
+            </div>
+            <div class="modal-body" >
+                <div class="row">
+                    <img style="display: block; margin-left: auto; margin-right: auto "  src="LogosGear/gear.gif"  height="15%" width="15%"/>
+                </div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+<div id="gearmodaldialoj" class="gearmodal modal fade">
+    <div class="modal-dialog " role="alert">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 id="gearmodaldialojTitulo"  class="modal-title">Gear Electric S.A.S</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" >
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h5 id = 'gearmodaldialojDetalle' class="text-center">Error.</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Aceptar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="gearmodalaceptar" class="gearmodal modal fade">
+    <div class="modal-dialog " role="alert">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Precaución</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" >
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h6 class="text-center">Eliminar los datos</h6>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-success" data-dismiss="modal">Aceptar</button>
+                <button type="button" class="btn btn-outline-danger" data-dismiss="modal">Cancelar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+</footer>
+<script src="../www.notariaenlinea.com/Librerias/jquery/jquery-3.1.1.min.js"></script>
+<script src="../www.notariaenlinea.com/Librerias/tether/js/tether.min.js"></script>
+<script src="../www.notariaenlinea.com/Librerias/bootstrap-4.0.0-alpha.6/js/bootstrap.min.js"></script>
+<script src="../www.notariaenlinea.com/Librerias/gear/gear.js"></script>
+</body>

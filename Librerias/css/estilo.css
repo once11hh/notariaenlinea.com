@@ -1,0 +1,29 @@
+.gearlogin{
+    background-color: #0B324B;
+    margin-top: 5%;
+}
+.gearlogin label{
+    color: #0B324B;
+    font-weight: bold;
+}
+.gearmodal .modal-title{color: #0B324B;}
+.gearmodal .modal-body{
+    vertical-align: middle;
+    background-color: #0B324B;
+    color: #cac9c9;
+}
+.navbar{
+    background-color: #0B324B;
+}
+
+body{
+    margin-top: 100px;
+}
+
+.nav-link:hover{
+    color: #cac9c9;
+}
+.card{
+    margin-top: 5px;
+}
+
